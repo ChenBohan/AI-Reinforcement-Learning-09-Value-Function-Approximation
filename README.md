@@ -1,6 +1,9 @@
 # AI-Reinforcement-Learning-09-Value-Function-Approximation
 Lecture 6: Value Function Approximation by David Silver
 
+Website: http://www0.cs.ucl.ac.uk/staff/D.Silver/web/Teaching.html
+
+Videos: https://www.bilibili.com/video/av32149008/?p=6
 
 ## Intrduction
 
