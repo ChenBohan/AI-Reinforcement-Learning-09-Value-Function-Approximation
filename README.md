@@ -33,4 +33,26 @@ Lecture 6: Value Function Approximation by David Silver
   - To find a local minimum of J(w)
   - Adjust w in direction of -ve gradient
   
-- Value Function Approx. By Stochastic Gradient Descent
+<img src="https://github.com/ChenBohan/AI-Reinforcement-Learning-09-Value-Function-Approximation/blob/master/readme_img/Value%20Function%20Approx.%20By%20Stochastic%20Gradient%20Descent.png" width = "70%" height = "70%" div align=center />
+
+<img src="https://github.com/ChenBohan/AI-Reinforcement-Learning-09-Value-Function-Approximation/blob/master/readme_img/Feature%20Vectors.png" width = "70%" height = "70%" div align=center />
+
+<img src="https://github.com/ChenBohan/AI-Reinforcement-Learning-09-Value-Function-Approximation/blob/master/readme_img/Linear%20Value%20Function%20Approximation.png" width = "70%" height = "70%" div align=center />
+
+<img src="https://github.com/ChenBohan/AI-Reinforcement-Learning-09-Value-Function-Approximation/blob/master/readme_img/Table%20Lookup%20Features.png" width = "70%" height = "70%" div align=center />
+
+<img src="https://github.com/ChenBohan/AI-Reinforcement-Learning-09-Value-Function-Approximation/blob/master/readme_img/Incremental%20Prediction%20Algorithms.png" width = "70%" height = "70%" div align=center />
+
+<img src="https://github.com/ChenBohan/AI-Reinforcement-Learning-09-Value-Function-Approximation/blob/master/readme_img/Monte-Carlo%20with%20Value%20Function%20Approximation.png" width = "70%" height = "70%" div align=center />
+
+<img src="https://github.com/ChenBohan/AI-Reinforcement-Learning-09-Value-Function-Approximation/blob/master/readme_img/TD%20Learning%20with%20Value%20Function%20Approximation.png" width = "70%" height = "70%" div align=center />
+
+<img src="https://github.com/ChenBohan/AI-Reinforcement-Learning-09-Value-Function-Approximation/blob/master/readme_img/TD(%CE%BB)%20with%20Value%20Function%20Approximation.png" width = "70%" height = "70%" div align=center />
+
+<img src="https://github.com/ChenBohan/AI-Reinforcement-Learning-09-Value-Function-Approximation/blob/master/readme_img/TD(%CE%BB)%20with%20Value%20Function%20Approximation2.png" width = "70%" height = "70%" div align=center />
+
+<img src="https://github.com/ChenBohan/AI-Reinforcement-Learning-09-Value-Function-Approximation/blob/master/readme_img/Action-Value%20Function%20Approximation.png" width = "70%" height = "70%" div align=center />
+
+<img src="https://github.com/ChenBohan/AI-Reinforcement-Learning-09-Value-Function-Approximation/blob/master/readme_img/Linear%20Action-Value%20Function%20Approximation.png" width = "70%" height = "70%" div align=center />
+
+<img src="https://github.com/ChenBohan/AI-Reinforcement-Learning-09-Value-Function-Approximation/blob/master/readme_img/Incremental%20Control%20Algorithms.png" width = "70%" height = "70%" div align=center />
